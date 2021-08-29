@@ -69,3 +69,6 @@ max_framebuffers=2
 # enable raspicam
 start_x=1
 gpu_mem=128
+
+
+
